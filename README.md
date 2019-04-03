@@ -9,3 +9,7 @@
 ####  Tools: Java, Spring, Springboot/SpringMVC, Maven, AWS, TomCat, MySQL MongoDB MapReduce REST API Java Servlet OOD Cloud Computing 
 
 
+/Users/seawill77/Desktop/马云/Recommendation-System-Project/delete item__postman.png
+/Users/seawill77/Desktop/马云/Recommendation-System-Project/Recom-result__postman.png
+/Users/seawill77/Desktop/马云/Recommendation-System-Project/DataBase Items list__MAMP.png
+/Users/seawill77/Desktop/马云/Recommendation-System-Project/DataBase Item history record__MAMP.png
