@@ -1,8 +1,7 @@
-# Geo info based Events Recommendation System
+# Geo info based AWS serve Events Recommendation System
 
 # demo: 
-## http://ec2-13-52-78-106.us-west-1.compute.amazonaws.com/Jupiter/#
-### free aws, a little slow  especially for recommendation
+### http://ec2-54-183-223-5.us-west-1.compute.amazonaws.com:8080/EventRecommendation/#
 
 
 ## Server: AWS / DB: MySQL  / TomCAT / API: TicketMaster  
