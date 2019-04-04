@@ -10,4 +10,4 @@
 
 ## Front-end Back-end Fullstack
 
-####  Technigies: Java, Spring, Springboot/SpringMVC, Maven, AWS, TomCat, MySQL MongoDB MapReduce REST API Java Servlet OOD Cloud Computing 
+####  Technigies: Java, JavaScript, CSS/HTML, AWS, TomCat, MySQL, API, Java Servlet, OOD, Cloud Computing, MAMP, PostMan, Spring, Springboot/SpringMVC
